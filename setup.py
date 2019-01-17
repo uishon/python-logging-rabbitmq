@@ -15,11 +15,11 @@ CLASSIFIERS = [
 ]
 
 INSTALL_REQUIRES = [
-    'pika==0.10.0'
+    'pika==0.12.0'
 ]
 
 setup(name='python-logging-rabbitmq',
-      version='1.0.9',
+      version='1.0.9.2',
 
       url='https://github.com/albertomr86/python-logging-rabbitmq',
       description='Send logs to RabbitMQ from Python/Django',
